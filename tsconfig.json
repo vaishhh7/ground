@@ -32,6 +32,24 @@
     },
     {
       "path": "./libs/shared/test-utils"
+    },
+    {
+      "path": "./myapp-e2e"
+    },
+    {
+      "path": "./myapp"
+    },
+    {
+      "path": "./shared"
+    },
+    {
+      "path": "./apps/ground-e2e"
+    },
+    {
+      "path": "./apps/ground"
+    },
+    {
+      "path": "./apps/ground/shared"
     }
   ]
 }
